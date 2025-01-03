@@ -6,5 +6,10 @@ https://terabox.com/sharing/embed?surl=yw_HwwuNL052CCHf2Hbcyg&resolution=1080&au
 
 #EXTINF:-1, Shinchan: Treasure of Buri Buri Kingdom
 https://terabox.com/sharing/embed?surl=mE3olmFjreiRq5L4YBzvOQ&resolution=720&autoplay=true&mute=false&uk=4401614939629&fid=185286351268838&slid=
-#CATEGORY:News
+#CATEGORY: News|fas fa-newspaper
 #LOGO:https://m.media-amazon.com/images/M/MV5BOWFmODNmNDItZWIzYS00OTYzLTlhOWEtMmRmNjFiZTkwYjJlXkEyXkFqcGc@._V1_.jpg
+
+#EXTINF:-1, Shinchan: Treasure of Buri Buri Kingdom
+#CATEGORY: Shinchan Movie|fas fa-film
+#LOGO: https://m.media-amazon.com/images/M/MV5BOWFmODNmNDItZWIzYS00OTYzLTlhOWEtMmRmNjFiZTkwYjJlXkEyXkFqcGc@._V1_.jpg
+https://terabox.com/sharing/embed?surl=mE3olmFjreiRq5L4YBzvOQ&resolution=720&autoplay=true&mute=false&uk=4401614939629&fid=185286351268838&slid=
